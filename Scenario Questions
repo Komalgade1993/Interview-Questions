@@ -1,0 +1,31 @@
+1️⃣ How would you design a real-time data pipeline for millions of financial transactions?
+2️⃣ What steps would you take to ensure data consistency across distributed systems?
+3️⃣ You find duplicate records in a production dataset—how do you handle and prevent this?
+4️⃣ A downstream system is failing due to schema changes—how do you manage schema evolution?
+5️⃣ How would you debug a slow-running Spark job in production?
+6️⃣ You’re tasked with migrating a large on-prem data warehouse to the cloud—how would you plan it?
+7️⃣ How do you secure PII data in data lakes and ensure compliance?
+8️⃣ You’re getting delayed Kafka messages—what’s your troubleshooting approach?
+9️⃣ What would you do if your data pipeline fails during peak business hours?
+🔟 How do you manage data partitioning in Big Data to avoid skew and improve performance?
+1️⃣1️⃣ How would you design a monitoring system for your data pipelines?
+1️⃣2️⃣ You need to join two huge datasets that don’t fit in memory—how do you approach it?
+1️⃣3️⃣ How do you backfill data in a pipeline without affecting current production loads?
+1️⃣4️⃣ A batch job is taking 3x longer than expected—how do you identify the bottleneck?
+1️⃣5️⃣ How would you handle late-arriving data in a time-series processing pipeline?
+
+1️⃣ You have a huge JSON dataset stored in Azure Data Lake. How would you design a pipeline in ADF + Databricks to flatten and load it into Delta tables efficiently?
+2️⃣ Explain the difference between Delta Lake OPTIMIZE and ZORDER. When should you use them?
+3️⃣ Write a SQL query to fetch employees whose salary is above the department average.
+4️⃣ How would you design a partitioning strategy for a large Delta Lake table with billions of records?
+5️⃣ In Spark, explain wide vs. narrow transformations with examples. How do they impact performance?
+6️⃣ A pipeline is failing intermittently with “Out of Memory” errors in Databricks. How would you debug and optimize it?
+7️⃣ What steps would you take to improve performance of an ADF copy activity moving billions of rows from SQL Server to ADLS?
+8️⃣ How would you handle late-arriving events in a streaming pipeline using Spark Structured Streaming and Delta Lake?
+9️⃣ What’s the difference between a Data Lakehouse and a Data Warehouse? Why would a company adopt a Lakehouse architecture?
+🔟 Explain Slowly Changing Dimensions (SCD). How would you implement Type 2 in Databricks Delta?
+1️⃣1️⃣ How do you implement CI/CD for ADF pipelines and Databricks notebooks using Azure DevOps?
+1️⃣2️⃣ Compare PolyBase vs. COPY INTO for loading data into Synapse Analytics.
+1️⃣3️⃣ Tell me about a project where you improved pipeline reliability or cost optimization. What impact did it create?
+1️⃣4️⃣ Share an example where you took the initiative to automate a repetitive data engineering task.
+1️⃣5️⃣ Design a pipeline to process real-time IoT sensor data with Azure Event Hub → Databricks → Delta → Power BI. How would you ensure scalability and fault tolerance?
