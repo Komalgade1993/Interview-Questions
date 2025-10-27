@@ -1,0 +1,20 @@
+1. How would you identify daily active users (logged in at least once)?
+2. How do you fetch the second highest transaction per user without using LIMIT or TOP?
+3. How can you detect missing records in a time-series dataset (e.g., hourly   gaps)?
+4. How would you find a user’s first purchase date and calculate days since then?
+5. How can you detect schema changes in SCD Type 2 Delta tables?
+6. How do you safely join product & transaction tables while excluding null foreign keys?
+7. How would you identify users who upgraded to premium within 7 days of signup?
+8. How do you calculate cumulative distinct product purchases per customer?
+9. How would you find customers spending above the average in their region?
+10. How can you detect duplicates in ingestion tables across all columns?
+11. How do you calculate daily revenue growth % using LAG()?
+12. How would you spot products with 3 months of consecutive sales decline?
+13. How do you find users with 3+ logins per week consistently over 2 months?
+14. How would you rank users by login frequency this quarter?
+15. How do you identify users buying the same product multiple times in a single day?
+16. How would you delete late-arriving data for the current month safely?
+17. How do you determine the top 5 products by profit margin across all categories?
+18. How can you compare rolling 30-day revenue with the previous 30 days?
+19. How would you flag transactions that occurred outside business hours?
+20. How do you optimize a query using broadcast joins for dimension lookups?
